@@ -1,0 +1,4 @@
+pycryptodomex
+hashlib
+pyperclip
+base64
